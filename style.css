@@ -1,0 +1,38 @@
+nav{
+    background-color:#f1c40f;
+    font-size: larger;
+    font-weight: 800;
+    font-family: roboto, Helvetica, sans-serif 
+}
+logo{
+    font-size: 1.6rem;
+}
+.title{
+    text-align: center;
+}
+#h1{
+    backface-visibility: unset;
+    text-align: center;
+    background-color:blanchedalmond;
+}
+#bnb {
+    border: 2px solid; color: black;
+    display: inline-block;
+    padding: 10px;
+animation: alternate-reverse;
+  }
+#ul{
+background-color: blanchedalmond;
+}
+
+#h4{
+    border: 1.2px solid; color: #f1c40f;
+    border-radius: 2ex;
+    background-color:rgb(236, 240, 241) ;
+}
+  .test{
+    background-color:rgb(236, 240, 241)
+  }
+#bhb{
+    background-color: #ecf0f1;
+}
